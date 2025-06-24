@@ -1,7 +1,7 @@
 # Hi there, I'm Sasi 👋
 
 ```javascript
-class MathiRaja {
+class sasiprakash {
     constructor() {
         this.name = "sasi";
         this.role = "data analyst";
@@ -15,7 +15,7 @@ class MathiRaja {
     }
 }
 
-const me = new MathiRaja();
+const me = new sasiprakash();
 me.sayHi();
 ```
 

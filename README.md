@@ -1,5 +1,52 @@
-# 💫 About Me:
-Hello! sasiprakash<br><br>About Myself....<br><br>-> I'm Currently pursuing my Master's with Major CA(MCA) at Gobi Arts & Science College, Gobichettipalayam. With a keen interest in technology and innovation, I'm eager to leverage my skills and knowledge to drive impact in the tech industry.<br><br>-> With Some knowledge in mysql, CSS, HTML, I'm confident in my ability to design, develop and deploy high-quality software applications.<br><br>-> As a passionate WEB DEVELOPER and lifelong learner,I'm dedicated to delivering exceptional results and continuously enhancing my expertise.<br>Let's connect and explore opportunities for growth, collaboration, and innovation!
+# Hi there, I'm Sasi 👋
+
+```javascript
+class MathiRaja {
+    constructor() {
+        this.name = "sasi";
+        this.role = "data analyst";
+        this.education = "MCA Student";
+        this.vibes = ["Innovation", "Adaptability", "Creativity"];
+        this.skills = ["JavaScript", "React", "Testing", "Automation"];
+    }
+
+    sayHi() {
+        console.log("Yo, thanks for dropping by! Let's build something dope together.");
+    }
+}
+
+const me = new MathiRaja();
+me.sayHi();
+```
+
+---
+
+## 🚀 About Me
+
+- 🎓 MCA Student passionate about tech and learning
+- 📊 Data Analyst with a knack for uncovering insights
+- 💡 Driven by innovation, adaptability, and creativity
+
+## 🛠️ My Toolbox
+
+- **Languages & Frameworks:** JavaScript, React
+- **Interests:** Testing, Automation
+
+## 🌱 Currently Learning
+
+- Advanced data analysis techniques
+- Modern JavaScript frameworks
+
+## 💬 Let's Connect!
+
+Open to collaboration and always excited to work on cool projects.  
+Feel free to reach out if you want to build something awesome together!
+
+---
+
+> “Yo, thanks for dropping by! Let's build something dope together.”  
+> — @sasiprakash0410
+
 
 
 ## 🌐 Socials:
